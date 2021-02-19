@@ -13,7 +13,7 @@ RUN cd /root && \
         mate-applet-brisk-menu \
         mate-notification-daemon \
         mate-notification-daemon-common \
-        mplayer \
+        mpv \
         pulseaudio \
         python \
         python3-pip && \ 
